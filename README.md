@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sndresen31
 - 👀 I’m interested in becoming the Beyonce of Computer Developing
 - 🌱 I’m currently learning CSS, HTML, Javascript, and Bootstrap
-- 💞️ I’m looking to collaborate on anything and everything as long as I a learning.
+- 💞️ I’m looking to collaborate on anything and everything as long as I am learning.
 - 📫 How to reach me - message me here!
 
 <!---
